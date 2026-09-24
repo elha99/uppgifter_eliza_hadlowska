@@ -5,7 +5,7 @@
 function calculateArea(width, height) {
     //Arean = bredden * höjden
     let sum = width * height;
-    //sum = arean
+    //Returnerar arean
     return sum;
 }
 
